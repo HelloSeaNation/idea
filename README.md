@@ -8,6 +8,7 @@
 # Tool
 - http://goodui.org/
 - http://jeyjoo.com/blog/how-good-is-your-website-free-website-healthcheck
+- https://daneden.me/animate/
 
 # Flow
 - http://roguebasin.roguelikedevelopment.org/index.php?title=How_to_Write_a_Roguelike_in_15_Steps
