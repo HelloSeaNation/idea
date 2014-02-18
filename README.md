@@ -14,3 +14,5 @@
 
 # Flow
 - http://roguebasin.roguelikedevelopment.org/index.php?title=How_to_Write_a_Roguelike_in_15_Steps
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kumabotz/idea/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
