@@ -4,6 +4,7 @@
 - [x] [generator-appfog](https://npmjs.org/package/generator-appfog)? something like https://github.com/passy/generator-heroku
 - [ ] e receipt
 - [ ] type rgb color in search bar and return the color e.g. `rgb 170 125 40` or even `170 125 40`
+- [ ] Access to other apps (multitasker) from notification dropdown #smartphone
 
 # Tool
 - http://goodui.org/
