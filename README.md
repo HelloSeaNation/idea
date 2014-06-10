@@ -1,4 +1,5 @@
 # Idea
+- [ ] 3D print http://www.makerbot.com/
 - [ ] Time tracker (10,000 hours)
 - [ ] Access to other apps (multitasker) from notification dropdown #smartphone
 - [ ] Code representation: visualize the source code
