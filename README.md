@@ -1,4 +1,5 @@
 # Idea
+- [ ] Reduce youtube video quality when video tab is inactive for x time (browser extension)
 - [ ] 3D print http://www.makerbot.com/
 - [ ] Time tracker (10,000 hours)
 - [ ] Access to other apps (multitasker) from notification dropdown #smartphone
