@@ -1,4 +1,5 @@
 # Idea
+- [ ] Construct tweet from mobile content
 - [ ] Reduce youtube video quality when video tab is inactive for x time (browser extension)
 - [ ] 3D print http://www.makerbot.com/
 - [ ] Time tracker (10,000 hours)
