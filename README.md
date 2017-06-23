@@ -6,10 +6,7 @@
 
 # Tool
 - http://goodui.org/
-- http://jeyjoo.com/blog/how-good-is-your-website-free-website-healthcheck
 - https://daneden.me/animate/
-- http://ypoweb-01.experf.gq1.yahoo.com/ysmush.it/
-- http://www.google.com.sg/webmasters/
 
 # Flow
 - http://roguebasin.roguelikedevelopment.org/index.php?title=How_to_Write_a_Roguelike_in_15_Steps
